@@ -1,95 +1,50 @@
-<h1 align="center">
-  <img src="https://github.com/kdhyanasamaga.png" width="200" alt="K Dhyana Samaga" />
-  <br />
-  K Dhyana Samaga
-</h1>
+<h2 align="left">Hi 👋, I'm K Dhyana Samaga<br>🚀 Engineering Mind | Code Enthusiast | Creative Builder 🎨 <br>🎓 3rd Year AIML Student | Explorer of Ideas & Innovation  <br>💻 Tech Stack: Java | Python | C | MongoDB | Git  <br>🚀 Dreaming in Code | Building with Purpose | Always up for a Challenge</h2>
 
-<h3 align="center">
-  🎓 3rd Year AIML Student | Java Specialist | Open Source Contributor
-  <br />
-  🚀 Passionate Coder | Curious Learner | Innovation Explorer
-  <br />
-  💻 Code. Create. Compete. Repeat.
-</h3>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kdhyanasamaga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
 
----
+###
 
-### **Connect with Me**
-
-<p align="center">
-  <a href="https://instagram.com/k_dhyana_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
+<div align="left">
+  <a href="https://www.instagram.com/k_dhyana_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.leetcode.com/kdhyanasamaga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
+  <a href="kdhyanasamaga@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</p>
+</div>
 
----
+###
 
-### **Technical Skills**
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
-</p>
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### **Current Projects and Interests**
-
-* 🔬 Exploring real-world AI/ML applications through projects and challenges
-* ⚙️ Automating problem-solving using algorithms and data structures
-* 💡 Building innovative mini-projects to enhance core programming concepts
-* 🧠 Preparing for coding competitions and technical interviews
-* 📚 Creating study resources for peers in Java, C, DBMS & Algorithms
-* 🌐 Staying updated with tech trends & open-source contributions
-
----
-
-### **Achievements**
-
-* ✅ Java Specialist badge from **Creesilt via Certiportle**
-* 🎓 Participated in webinars like **Food.Planet.Health** by Vegan Outreach
-* 💧 Volunteered in **NSS activities** promoting rainwater harvesting awareness
-
----
-
-### **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdhyanasamaga&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdhyanasamaga&theme=github_dark" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdhyanasamaga&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="GitHub Languages" />
-</p>
-
----
-
-### **LeetCode Stats**
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kdhyanasamaga?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
-</p>
-
----
-
-### **Dynamic Typing Animation**
-
-<p align="center">
-  <a href="https://github.com/kdhyanasamaga">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&color=007396&background=FFFFFF00&lines=3rd+Year+AIML+Student;Code+Enthusiast+%7C+Java+Specialist;Solving+Challenges+on+LeetCode;Creating+Impact+Through+Tech;Always+Learning+Something+New" />
-  </a>
-</p>
+###
