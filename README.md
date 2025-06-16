@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🚀 Engineering Mind | Code Enthusiast | Creative Builder 🎨  
-🎓 3rd Year AIML Student | Explorer of Ideas & Innovation  
+<!--🎓 3rd Year AIML Student -->| Explorer of Ideas & Innovation  
 💻 Tech Stack: Java | Python | C | MongoDB | Git  
 🌱 Dreaming in Code | Building with Purpose | Always up for a Challenge  
 </h3>
