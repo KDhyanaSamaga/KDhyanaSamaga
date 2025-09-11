@@ -1,124 +1,93 @@
-# 👋 Hi, I'm K Dhyana Samaga  
+```markdown
+# Hi, I'm KDhyanaSamaga 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00E8FF&center=true&vCenter=true&random=false&width=720&lines=AI%2FML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Freelance+Trainer+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing Animation"/>
-</div>  
+> Building meaningful tools at the intersection of medical imaging, computer vision, and algorithmic problem solving.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="Coding GIF"/>
-</div>  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KDhyanaSamaga&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/KDhyanaSamaga?style=for-the-badge&logo=github&color=blue"/>
-  <img src="https://img.shields.io/badge/Trainer-Aptitude%20%26%20Technical-brightgreen?style=for-the-badge&logo=googleclassroom"/>
-</div>  
+[![Website](https://img.shields.io/badge/website-portfolio-blue)](#)
+[![Email](https://img.shields.io/badge/email-hello%40yourdomain.com-green)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDhyanaSamaga&layout=compact&theme=tokyonight)](#)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KDhyanaSamaga&show_icons=true&count_private=true&theme=tokyonight)](#)
 
 ---
 
-## 🌟 About Me  
+## About Me
+I solve practical problems with machine learning and computer vision — especially in medical imaging and remote sensing. I enjoy turning research ideas into reliable, well-tested code and tools that real people can use.
 
-💡 **AI/ML Engineer | Full Stack Developer | Freelance Technical Trainer**  
-📍 Based in **Karnataka, India**  
-🎯 Skilled in **Python, Java, C, AI/ML, Computer Vision, Cloud, Full Stack Development**  
-👨‍🏫 **Trainer Experience:** Delivered **aptitude + technical training** to 200+ students across multiple colleges  
-⚡ Passionate about solving real-world problems & creating impactful solutions  
-
----
-
-## 🌐 Connect with Me  
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://nethranand-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-dhyana-s)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KDhyanaSamaga)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kdhyanasamaga/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdhyanasamaga@gmail.com)  
-
-</div>  
+- 🔭 I’m currently working on: Rakshanetra (real-time detection), medical-image-classifier, and improving model robustness for SAR ship detection.
+- 🌱 I’m learning: model interpretability, MLOps for production ML, and transformer-based vision models.
+- 💬 Ask me about: image preprocessing pipelines, model evaluation for medical data, and competitive programming strategies.
+- ⚡ Fun fact: I like translating complex algorithms into clear, performant code.
 
 ---
 
-## 📊 LeetCode Journey  
+## Featured Projects
 
-<div align="center">  
-  <img src="https://leetcard.jacoblin.cool/kdhyanasamaga?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=12" alt="LeetCode Stats"/>  
-</div>  
+- KDhyanaSamaga/KDhyanaSamaga — Personal profile, portfolio, and curated projects.  
+  (Add a short description of what this repo showcases — e.g., portfolio site, projects list.)
 
----
+- KDhyanaSamaga/Just-LeetCode-Solutions — My collection of algorithm and data-structure solutions.  
+  (Mention languages used and problem categories you focus on.)
 
-## 🛠️ Skills  
+- KDhyanaSamaga/medical-image-classifier — Models and pipelines for medical image classification.  
+  (Note dataset types, architecture choices, and evaluation highlights.)
 
-<div align="center">
+- KDhyanaSamaga/Rakshanetra — Real-time detection project (describe scope: object detection, UI, deployment).  
 
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+- Ship-Detection-using-SAR-Images/Mini-Project — SAR image preprocessing and ship detection experiments.  
 
-### 🤖 AI/ML & Data  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
-
-</div>  
+(If any of the above should be swapped for different favorites, tell me which ones to highlight and provide 1–2 sentences per repo.)
 
 ---
 
-## 🚀 Projects  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KDhyanaSamaga&repo=RakshaNetra&theme=tokyonight&hide_border=true&border_radius=12"/>  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KDhyanaSamaga&repo=medical-image-classifier&theme=tokyonight&hide_border=true&border_radius=12"/>  
-</div>  
-
-✅ **RakshaNetra** – Real-time Animal Detection & Alert Platform (YOLOv5, IoT, Telegram API)  
-✅ **Ship Detection using SAR Images** – Deep Learning + Streamlit/Django Deployment  
-✅ **Medical Image Classification** – CNN with TensorFlow/Keras on Medical MNIST  
-✅ **Library Management System** – Java OOP Project  
+## Skills & Tools
+- Languages: Python, (add others: e.g., C++, Java, JavaScript)
+- ML / CV: PyTorch, TensorFlow, OpenCV, scikit-learn, segmentation & detection (Faster R-CNN, YOLO, U-Net)
+- Data & DevOps: Docker, Git, CI/CD, experiment tracking (Weights & Biases), basic AWS/GCP
+- Other: Linux, bash, unit testing, performance profiling
 
 ---
 
-## 🏆 Achievements & Certifications  
-
-- 🥇 **1st Place** – Inter-Department Coding Competition (2024)  
-- 👨‍💻 **Hackathon Lead** – 24-hour Hackathon (2024)  
-- 🎯 **Event Coordinator** – AIML Department Technical Events (2024)  
-- 📖 **Documentation Lead** – SSOSC Community (2025)  
-
-**📜 Certifications**  
-- ☕ **Java Specialist** – Certiport (2024)  
-- ☁️ **IT Specialist (Cloud Computing)** – Certiport (2025)  
-- 🚀 **Google Cloud Career Launchpad: Cloud Engineer Track** – Google Cloud (2024)  
+## How I Work
+- Reproducible experiments with seed-controlled runs and notebooks → production-ready pipelines with Docker.
+- Modular code, clear README + examples, and unit tests for critical utilities.
+- Prefer PR-based collaboration: focused PRs, clear descriptions, and small, testable changes.
 
 ---
 
-## 📈 GitHub Analytics  
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KDhyanaSamaga&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDhyanaSamaga&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>  
-</div>  
-
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDhyanaSamaga&theme=tokyonight&hide_border=true&border_radius=12"/>  
-</div>  
+## Metrics & Activity
+- Open to collaborations, mentorship, and new challenges in ML/Computer Vision.
+- I contribute to both academic-style experiments and production systems.
 
 ---
 
-<div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=18&fontColor=fff&animation=twinkling" width="100%"/>  
-</div>  
+## Want this README customized?
+I can personalize this README with:
+- Your real name, pronouns, or tagline
+- Specific project descriptions and badges
+- Social links and contact info
+- A preferred theme (dark/light/minimal)
+- Auto-generated GitHub cards (repos, stats, top languages)
+- Optional animated SVGs or dynamic sections (latest blog posts, now-playing, reading)
+
+---
+
+Thanks — I drafted this README to give your profile a clear voice and structure. Tell me the details below and I’ll refine the README and produce a final ready-to-push README.md (or commit it to your profile repo if you want).
+
+What I need from you (please answer as many as you like):
+1. Full name or display name (how you want it shown).
+2. Short bio (1–2 sentences) / professional title.
+3. Pronouns (optional).
+4. Top 6 skills / technologies to highlight (e.g., Python, PyTorch, OpenCV, Docker).
+5. Which favorite projects to highlight (pick from the list above or add others) and 1–2 sentence descriptions for each.
+6. Links: portfolio/website, LinkedIn, Twitter/X, email, resume URL, any other socials.
+7. Are you open to work / hiring / mentoring? (Yes/No — and any details).
+8. Preferred theme for readme cards: dark / light / colorful / minimalist.
+9. Any quote or tagline you want included?
+10. Do you want me to push this README to a repo for you? If yes, provide the repo name (must be a repository named exactly like your username for a profile README, e.g., KDhyanaSamaga/KDhyanaSamaga) and confirm I should create/overwrite README.md there.
+
+Once you reply with these details I'll:
+- Personalize the README content and badges.
+- Produce a final README.md for you to copy/paste — or, if you ask, create a commit and open a PR to update your profile README.
+
+Looking forward to your details so I can finish polishing this into an exceptional profile README.
+```
