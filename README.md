@@ -1,93 +1,108 @@
 ```markdown
-# Hi, I'm KDhyanaSamaga 👋
+<!--
+  Dynamic Profile README for KDhyanaSamaga
+  - Replace placeholder links and texts with your real URLs and descriptions.
+  - Many of the cards below are images served by third-party services (github-readme-stats, activity-graph, etc).
+  - If you want certain widgets removed or swapped, tell me which ones.
+-->
 
-> Building meaningful tools at the intersection of medical imaging, computer vision, and algorithmic problem solving.
+# Hi, I'm KDhyanaSamaga 👋 — building at the intersection of medical imaging, computer vision, and algorithms
 
-[![Website](https://img.shields.io/badge/website-portfolio-blue)](#)
-[![Email](https://img.shields.io/badge/email-hello%40yourdomain.com-green)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDhyanaSamaga&layout=compact&theme=tokyonight)](#)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KDhyanaSamaga&show_icons=true&count_private=true&theme=tokyonight)](#)
-
----
-
-## About Me
-I solve practical problems with machine learning and computer vision — especially in medical imaging and remote sensing. I enjoy turning research ideas into reliable, well-tested code and tools that real people can use.
-
-- 🔭 I’m currently working on: Rakshanetra (real-time detection), medical-image-classifier, and improving model robustness for SAR ship detection.
-- 🌱 I’m learning: model interpretability, MLOps for production ML, and transformer-based vision models.
-- 💬 Ask me about: image preprocessing pipelines, model evaluation for medical data, and competitive programming strategies.
-- ⚡ Fun fact: I like translating complex algorithms into clear, performant code.
+<p align="left">
+  <a href="#"><img alt="Website" src="https://img.shields.io/badge/website-portfolio-blue?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="mailto:hello@yourdomain.com"><img alt="Email" src="https://img.shields.io/badge/email-hello%40yourdomain.com-green?style=for-the-badge&logo=gmail" /></a>
+  <a href="#"><img alt="Status" src="https://img.shields.io/badge/status-open%20to%20work-yellow?style=for-the-badge&logo=briefcase" /></a>
+  <a href="https://github.com/KDhyanaSamaga"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KDhyanaSamaga&color=blue&style=for-the-badge" /></a>
+</p>
 
 ---
 
-## Featured Projects
-
-- KDhyanaSamaga/KDhyanaSamaga — Personal profile, portfolio, and curated projects.  
-  (Add a short description of what this repo showcases — e.g., portfolio site, projects list.)
-
-- KDhyanaSamaga/Just-LeetCode-Solutions — My collection of algorithm and data-structure solutions.  
-  (Mention languages used and problem categories you focus on.)
-
-- KDhyanaSamaga/medical-image-classifier — Models and pipelines for medical image classification.  
-  (Note dataset types, architecture choices, and evaluation highlights.)
-
-- KDhyanaSamaga/Rakshanetra — Real-time detection project (describe scope: object detection, UI, deployment).  
-
-- Ship-Detection-using-SAR-Images/Mini-Project — SAR image preprocessing and ship detection experiments.  
-
-(If any of the above should be swapped for different favorites, tell me which ones to highlight and provide 1–2 sentences per repo.)
+<!-- Animated/hero -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KDhyanaSamaga/KDhyanaSamaga/main/assets/hero-wave.gif" alt="hero" width="720" />
+</p>
 
 ---
 
-## Skills & Tools
-- Languages: Python, (add others: e.g., C++, Java, JavaScript)
-- ML / CV: PyTorch, TensorFlow, OpenCV, scikit-learn, segmentation & detection (Faster R-CNN, YOLO, U-Net)
-- Data & DevOps: Docker, Git, CI/CD, experiment tracking (Weights & Biases), basic AWS/GCP
-- Other: Linux, bash, unit testing, performance profiling
+## 🔭 Snapshot — live & interactive
+<p align="left">
+  <!-- GitHub readme stats -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KDhyanaSamaga&show_icons=true&count_private=true&theme=tokyonight" alt="KDhyanaSamaga's GitHub stats" width="48%" />
+  <!-- Top languages -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDhyanaSamaga&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
+</p>
+<div style="clear:both"></div>
+
+- Latest activity (live):  
+  <img src="https://activity-graph.herokuapp.com/graph?username=KDhyanaSamaga&theme=react-dark" alt="contributions-graph" />
+
+- Contribution heatmap:  
+  <img src="https://ghchart.rshah.org/KDhyanaSamaga" alt="GitHub chart" />
 
 ---
 
-## How I Work
-- Reproducible experiments with seed-controlled runs and notebooks → production-ready pipelines with Docker.
-- Modular code, clear README + examples, and unit tests for critical utilities.
-- Prefer PR-based collaboration: focused PRs, clear descriptions, and small, testable changes.
+## 🚀 Featured (Pinned) Projects
+<p>
+  <!-- Pinned repo cards (dynamic images) -->
+  <a href="https://github.com/KDhyanaSamaga/medical-image-classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KDhyanaSamaga&repo=medical-image-classifier&theme=tokyonight" alt="medical-image-classifier" />
+  </a>
+  <a href="https://github.com/KDhyanaSamaga/Rakshanetra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KDhyanaSamaga&repo=Rakshanetra&theme=tokyonight" alt="Rakshanetra" />
+  </a>
+  <a href="https://github.com/KDhyanaSamaga/Just-LeetCode-Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KDhyanaSamaga&repo=Just-LeetCode-Solutions&theme=tokyonight" alt="Just-LeetCode-Solutions" />
+  </a>
+</p>
 
 ---
 
-## Metrics & Activity
-- Open to collaborations, mentorship, and new challenges in ML/Computer Vision.
-- I contribute to both academic-style experiments and production systems.
+## 🧰 Tools & Technologies
+- Languages: Python, (add C++, Java, JavaScript, etc.)
+- ML / CV: PyTorch, TensorFlow, OpenCV, scikit-learn, U-Net, YOLO, Faster R-CNN
+- Infra & DevOps: Docker, GitHub Actions, AWS/GCP basics, experiment tracking (Weights & Biases)
+- Engineering: Unit testing, profiling, performance optimization, CI/CD
 
 ---
 
-## Want this README customized?
-I can personalize this README with:
-- Your real name, pronouns, or tagline
-- Specific project descriptions and badges
-- Social links and contact info
-- A preferred theme (dark/light/minimal)
-- Auto-generated GitHub cards (repos, stats, top languages)
-- Optional animated SVGs or dynamic sections (latest blog posts, now-playing, reading)
+## ✨ Dynamic widgets you can enable
+- Now Playing (Spotify): an auto-updating "Now Playing" card  
+  Example: <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default" alt="now-playing" />
+- Recent blog posts (from RSS): small card that shows your latest post
+- Visitor counter & trophies: visitor badges and GitHub trophies for visual flair
+
+(If you want any of these enabled, provide the relevant account IDs: Spotify UID, RSS feed URL, or choose the trophy set.)
 
 ---
 
-Thanks — I drafted this README to give your profile a clear voice and structure. Tell me the details below and I’ll refine the README and produce a final ready-to-push README.md (or commit it to your profile repo if you want).
+## 📫 Connect with me
+- Portfolio / Website: https://your-portfolio.example
+- LinkedIn: https://linkedin.com/in/your-handle
+- Twitter/X: https://twitter.com/your-handle
+- Email: hello@yourdomain.com
 
-What I need from you (please answer as many as you like):
-1. Full name or display name (how you want it shown).
-2. Short bio (1–2 sentences) / professional title.
-3. Pronouns (optional).
-4. Top 6 skills / technologies to highlight (e.g., Python, PyTorch, OpenCV, Docker).
-5. Which favorite projects to highlight (pick from the list above or add others) and 1–2 sentence descriptions for each.
-6. Links: portfolio/website, LinkedIn, Twitter/X, email, resume URL, any other socials.
-7. Are you open to work / hiring / mentoring? (Yes/No — and any details).
-8. Preferred theme for readme cards: dark / light / colorful / minimalist.
-9. Any quote or tagline you want included?
-10. Do you want me to push this README to a repo for you? If yes, provide the repo name (must be a repository named exactly like your username for a profile README, e.g., KDhyanaSamaga/KDhyanaSamaga) and confirm I should create/overwrite README.md there.
+---
 
-Once you reply with these details I'll:
-- Personalize the README content and badges.
-- Produce a final README.md for you to copy/paste — or, if you ask, create a commit and open a PR to update your profile README.
+## 💡 How I work
+- Reproducible research → production-ready pipelines in Docker.
+- Modular code, clear README, and unit tests for core modules.
+- Prefer small, focused PRs and peer reviews.
 
-Looking forward to your details so I can finish polishing this into an exceptional profile README.
+---
+
+## 🙋 Customization & next steps
+I can personalize this README for you. Tell me:
+1. Full/display name and pronouns (optional).
+2. One-line bio / professional title.
+3. Top 6 skills or tech to highlight (exact wording).
+4. Which projects to pin (pick up to 4) and a 1–2 sentence description for each.
+5. Real links: portfolio, LinkedIn, Twitter/X, email, resume URL.
+6. Do you want Spotify, blog RSS, visitor counter, or GitHub trophies enabled? If so, give account IDs or say which widgets to add.
+7. Are you "open to work", hiring, or mentoring? (Yes/No + short note)
+8. Preferred theme for cards: tokyonight / dark / light / minimal / colorful
+9. Do you want me to push this README to repo KDhyanaSamaga/KDhyanaSamaga and overwrite README.md? (Yes — provide confirmation) 
+
+---
+
+Thanks — I updated your README to include animated/interactive cards, pinned repo images, live activity widgets and a cleaner, more dynamic UI. Give me the details above and I'll produce a final, fully-personalized README.md ready to copy/paste — or I can commit it directly to your profile repo if you want.
 ```
