@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dhyana!
+# 👋 Hey, I'm K Dhyana samaga !!
 
 ## 💻 About Me
 - 🚀 AI & Computer Vision Engineer passionate about building intelligent systems that solve real-world problems
