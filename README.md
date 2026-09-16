@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,fastapi,mongodb,postgres,redis,docker,git,github,linux,sklearn,opencv,pytorch&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,fastapi,mongodb,postgres,redis,docker,git,github,linux,sklearn,opencv,pytorch,langchain,huggingface&perline=8" />
 
 </div>
 
@@ -47,7 +47,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 <!--![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)-->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 </div>
 
 <!--
